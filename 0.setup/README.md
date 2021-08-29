@@ -4,7 +4,7 @@ https://www.anaconda.com/download/
 
 # Create new anaconda environment for this class
 ```sh
-conda create --name anlp
+conda create --name anlp python=3.8
  ```
 
 # Activate environment
