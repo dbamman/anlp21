@@ -4,7 +4,7 @@ https://www.anaconda.com/download/
 
 # Create new anaconda environment for this class
 ```sh
-conda create --name anlp
+conda create --name anlp python=3.8.8
  ```
 
 # Activate environment
@@ -27,7 +27,7 @@ Be sure to install these specific versions to make debugging easier for everyone
 ```sh
 conda install nb_conda=2.2.1
 conda install nltk=3.6.2
-conda install spacy=2.3.5
+conda install -c conda-forge spacy=3.0
 conda install scikit-learn=0.24.2
 conda install pandas=1.3.1
 conda install matplotlib=3.4.2
@@ -37,7 +37,7 @@ conda install pytorch=1.9.0 torchvision=0.10.0 torchaudio=0.9.0 -c pytorch
 # Install spaCy English model
 
 ```sh
-python -m spacy download en
+python -m spacy download en_core_web_sm
 ```
 
 # Use Jupyter notebooks
