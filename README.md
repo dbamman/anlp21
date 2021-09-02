@@ -6,7 +6,8 @@ Syllabus: http://people.ischool.berkeley.edu/~dbamman/info256.html
 
 |Notebook|Description|
 |---|---|
-|1.words/EvaluateTokenizationForSentiment.ipynb|The impact of tokenization choices on sentiment classification.|
-|1.words/ExploreTokenization.ipynb|Different methods for tokenizing texts (whitespace, NLTK, spacy, regex)|
-|1.words/TokenizePrintedBooks.ipynb|Design a better tokenizer for printed books|
-
+|1.words/EvaluateTokenizationForSentiment|The impact of tokenization choices on sentiment classification.|
+|1.words/ExploreTokenization|Different methods for tokenizing texts (whitespace, NLTK, spacy, regex)|
+|1.words/TokenizePrintedBooks|Design a better tokenizer for printed books|
+|1.words/Text_Complexity|Implement type-token ratio and Flesch-Kincaid Grade Level scores for text|
+|2.compare/ChiSquare, Mann-Whitney Tests|Explore two tests for finding distinctive terms|
