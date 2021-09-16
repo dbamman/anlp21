@@ -17,3 +17,7 @@ Syllabus: http://people.ischool.berkeley.edu/~dbamman/info256.html
 |4.embeddings/DistributionalSimilarity|Explore distributional hypothesis to build high-dimensional, sparse representations for words|
 |4.embeddings/WordEmbeddings|Explore word embeddings using Gensim|
 |4.embeddings/Semaxis|Implement SemAxis for scoring terms along a user-defined axis (e.g., positive-negative, concrete-abstract, hot-cold),
+|4.embeddings/BERT|Explore the basics of token representations in BERT and use it to find token nearest neighbors|
+|4.embedings/SequenceEmbeddings|Use sequence embeddings to find TV episode summaries most similar to a short description|
+|5.eda/WordSenseClustering|Inferring distinct word senses using KMeans clustering over BERT representations|
+|5.eda/Haiku KMeans|Explore text representation in clustering by trying to group haiku and non-haiku poems into two distinct clusters|
